@@ -6,6 +6,8 @@ public class Test {
         String tsuchi = "天才や～";
         System.out.println(tsuchi);
         System.out.println("Cui edited");
+        System.out.println("Cui edited");
+        System.out.println("K edited");
         System.out.println("aa edited");
     }
 }
