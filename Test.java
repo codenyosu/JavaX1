@@ -4,9 +4,5 @@ public class Test {
 
         String tsuchi = "天才や～";
         System.out.println(tsuchi+tsuchi+tsuchi);
-<<<<<<< HEAD
-=======
-
->>>>>>> main
     }
 }
