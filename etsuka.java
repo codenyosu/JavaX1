@@ -4,5 +4,6 @@ public class etsuka {
         System.out.println("ルビィちゃん");
         System.out.println("何が好き？");
         System.out.println("チョコミント");
+        System.out.println("ストロベリークリームよりもあ・な・た♡");
     }
 }
